@@ -103,7 +103,7 @@ public class Homework6Dice {
 }
 			
 		
-		
+// Please look into the mod (%) function and how it can be used to determine if the number is odd/even.		
 	
 
 
